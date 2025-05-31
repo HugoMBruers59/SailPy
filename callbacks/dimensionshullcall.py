@@ -7,7 +7,7 @@ import dash_html_components as html
 import dash_table
 import json, codecs
 import numpy as np
-from scipy.integrate import simps
+from scipy.integrate import simpson
 import pandas as pd
 import plotly.graph_objs as go
 #import plotly.express as px
